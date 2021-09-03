@@ -15,5 +15,5 @@
 ### Donations
 
 If you would like to donate to help us hire some talent to speed this project up.
--Please visit us at:
+- Donations kindly acccpeted @:
 https://newgardenfarms.org/donate/
