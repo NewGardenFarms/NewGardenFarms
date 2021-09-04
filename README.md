@@ -1,6 +1,6 @@
 # New Garden Farms
 - 👋 Hi, We are @NewGardenFarms, A non-profit from **Newark, CA**. 
-- 👀 We are in interested / testing in using ARM based computers to help mirco-farms (Farms in backyards / home farms).
+- 👀 We are in interested / testing in using ARM based computers to help mirco-farms (Farm @ home).
 - 🌱 We are currently learning php, NodeJS.
 - 💞️ We looking to collaborate on php, nodeJS, RPi-W, RP3, RP4 development to help feed underserved communities.   
 - 📫 How to reach us code@newgardenfarms.org
